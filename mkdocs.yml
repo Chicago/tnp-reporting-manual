@@ -22,7 +22,7 @@
 site_name: TNP Reporting Guide
 site_author: City of Chicago
 site_description: TNP Reporting Guide
-site_url: http://localhost:8000
+site_url: https://chicago.github.io/tnp-reporting-manual
 
 # Copyright for documentation Language
 copyright: Copyright &copy; 2016-2017 <a href="http://www.cityofchicago.org">City of Chicago</a>
