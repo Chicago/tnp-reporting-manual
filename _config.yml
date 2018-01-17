@@ -2,8 +2,8 @@
 # Site
 
 title: TNP Reporting Manual
-url: "https://chicago.github.io/tnp-reporting-manual"
-baseurl: "https://chicago.github.io/tnp-reporting-manual"
+url: "https://chicago.github.io"
+baseurl: "/tnp-reporting-manual"
 google_analytics_key:
 show_full_navigation: true
 
