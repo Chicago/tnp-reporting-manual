@@ -20,7 +20,12 @@ Below are the deadlines required to have all required files submitted to the Cit
 
 ## Submission Format
 
-Submit four separate CSV files with the following naming convention, where [company] denotes the submitting company, [topic] represents one of the four areas being requested: driver, vehicle, trip, and session, and date corresponds to the period covered by the file (not the period when the file is submitted). For instance, ACME service submitting the driver file of drivers eligible in March 2016 would submit acme-driver-201603.csv.
+<form method="get" action="TNP Reporting Manual.xlsx">
+	<button type="submit">Download Reporting Manual</button>
+</form>
+
+
+Submit four separate CSV files with the following naming convention, where [company] denotes the submitting company, [topic] represents one of the four areas being requested: driver, vehicle, trip, and session, and date corresponds to the period covered by the file (not the period when the file is submitted). For instance, ACME service submitting the driver file of drivers eligible in March 2016 would submit "acme-driver-201603.csv".
 
 ```
 [company]-[topic]-[date].csv
