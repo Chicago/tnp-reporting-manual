@@ -8,10 +8,10 @@ Below are the deadlines required to have all required files submitted to the Cit
 
 |   Due Date   | Beginning Date |   End Date   |
 |--------------|----------------|--------------|
-| January 15   | October 1      | December 31  |
-| April 15     | January 1      | March 31     |
-| July 15      | April 1        | June 30      |
-| October 15   | July 1         | September 30 |
+| January 16   | October 1      | December 31  |
+| April 16     | January 1      | March 31     |
+| July 16      | April 1        | June 30      |
+| October 16   | July 1         | September 30 |
 
 
 ## Submission Format
