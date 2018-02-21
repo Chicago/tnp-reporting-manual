@@ -1,6 +1,6 @@
 ---
 title: Trip
-category: Data Submission
+category: Data Preparation
 order: 3
 ---
 
