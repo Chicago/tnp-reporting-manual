@@ -27,7 +27,7 @@ Errors detected should be fixed before file submission. If it is impossible or u
 | Vehicle   | WAV column complete                  | V10 contains either `Y` or `N` for every record.    |
 | Vehicle   | Valid inspection date                | V11 contains a date in the past for every record.   |
 | Driver    | No duplicates                        | No combination of D2/D3 values appears more than once. |
-| Vehicle   | No duplicates                        | No V1 value or combination of V2/V3 values appears more than once. |
+| Vehicle   | No duplicates                        | No V1 value or combination of V2/V3 values appears more than once, *except if due to another driver (distinct V8/V9) also using the vehicle*. |
 | Driver<br>Session | Session and Driver files match | All S1/S2 values have corresponding D2/D3 values. |
 | Driver<br>Trip    | Trip and Driver files match    | All T1/T2 values have corresponding D2/D3 values. |
 | Driver<br>Vehicle | Vehicle and Driver files match | All V8/V9 values have corresponding D2/D3 values. |
