@@ -14,8 +14,6 @@ Errors detected should be fixed before file submission. If it is impossible or u
 
 ## File Format
 
-Driver data must be reported using the following schema and reported with the following `[company]-driver-[date].csv`.
-
 | File(s)   | Standard                             | Test                                                |
 |-----------|--------------------------------------|-----------------------------------------------------|
 | Driver    | Driver ID columns complete           | D1, D2, and D3 contain no blanks.                   |
