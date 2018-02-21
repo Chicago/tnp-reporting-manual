@@ -1,6 +1,6 @@
 ---
 title: Session
-category: Data Submission
+category: Data Preparation
 order: 2
 ---
 
