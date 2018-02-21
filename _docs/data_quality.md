@@ -1,6 +1,6 @@
 ---
 title: Data Quality
-category: Data Quality
+category: Data Submission
 order: 1
 ---
 
