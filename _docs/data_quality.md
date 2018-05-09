@@ -6,11 +6,9 @@ order: 1
 
 ## Scope
 
-TNPs should check all files for data quality before submission and verify that they pass *at least* the following tests. Additional tests as each company sees fit are highly encouraged, as is reaching out to the City of Chicago for any discussion each company thinks useful in this effort.
+TNPs should check all files for data quality before submission and verify that they pass *at least* the following tests. Additional tests as each TNP sees fit are highly encouraged, as is reaching out to the City of Chicago for any discussion each TNP thinks useful in this effort.
 
-Note that these tests are designed to detect structural errors in the data files. Companies should also make reasonable efforts to check for situations in which data are structurally valid but incorrect.
-
-Errors detected should be fixed before file submission. If it is impossible or unreasonably difficult to fix the errors, companies should inform BACP of the nature and degree (such as number of records affected) of the known errors in a file.
+Errors detected should be fixed before file submission. If it is impossible or unreasonably difficult to fix the errors, TNPs should inform BACP of the nature and degree (such as number of records affected) of the known errors in a file.
 
 ## File Format
 
@@ -34,3 +32,13 @@ Errors detected should be fixed before file submission. If it is impossible or u
 | 16         | Trip<br>Vehicle   | Trip and Vehicle files match   | All T3 values have a corresponding V1 value.      |
 | 17         | All       | Valid data types         | All non-string columns contain values valid for the column type. |
 
+## File Content
+
+The above tests are designed to detect structural errors in the data files. TNPs should also make reasonable efforts to check for situations in which data are structurally valid but incorrect. While no list can be comprehensive, *examples* of things to check might include:
+
+*	The number of records in the file is correct.
+*	No records have been excluded in any reasonably detectible way.
+*	No excess records have been included in any reasonably detectible way.
+*	All values fall into plausible ranges.
+*	Totals, averages, and other summary measures are consistent with internal benchmarks.
+*	Continuous improvement: If a problem occurs in one period – and especially in multiple periods – add it to the test procedures for future periods. It is understandable if it never occurred to a TNP that a particular error could occur. However, after it does occur and is detected, it is reasonable to assume it might happen again and should be detected and corrected before file submission.
