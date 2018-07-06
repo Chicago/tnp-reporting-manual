@@ -3,4 +3,6 @@ As part of its licensing process for Transportation Network Providers (sometimes
 
 This repository contains the technical specifications TNPs should use in preparing their files.  Any changes will be published as updates to these documents.
 
+For questions relating to these reporting requirements, please e-mail tnp-data-reporting@cityofchicago.org.
+
 For TNP matters relating to anything other than data reporting, please e-mail BACPPV@cityofchicago.org.
