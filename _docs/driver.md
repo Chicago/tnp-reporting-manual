@@ -6,7 +6,7 @@ order: 1
 
 ## Scope
 
-Any eligible driver on the TNP platform must be reported in this file.
+Any eligible driver on the TNP platform must be reported in this file. This includes drivers who could have provided rides in the relevant time period but did not actually do so.
 
 ## File Format
 

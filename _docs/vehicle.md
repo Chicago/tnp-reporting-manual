@@ -6,7 +6,7 @@ order: 4
 
 ## Scope
 
-All eligible vehicles on the TNP platform must be reported in this file.
+All eligible vehicles on the TNP platform must be reported in this file. This includes vehicles that could have provided rides in the relevant time period but did not actually do so.
 
 ## File Format
 
