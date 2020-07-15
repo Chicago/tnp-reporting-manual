@@ -4,8 +4,6 @@ category: Data Preparation
 order: 2
 ---
 
-# *DRAFT FOR PUBLIC COMMENT*
-
 ## Scope
 
 A record of each trip which shows where a passenger is picked up and dropped off. Must include all Trips completed during the reporting period.  Trips in progress at the end of the reporting period should be held for the next report.  For the purposes of this file, a trip is a transaction with a specific customer, including any additional people transported under the same transaction. A transaction with a different customer, even if present in the vehicle at the same time, is a separate trip.
