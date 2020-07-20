@@ -31,6 +31,7 @@ Errors detected should be fixed before file submission. If it is impossible or u
 | 15         | Driver<br>Vehicle | Vehicle and Driver files match | All V8/V9 values have corresponding D2/D3 values. |
 | 16         | Trip<br>Vehicle   | Trip and Vehicle files match   | All T3 values have a corresponding V1 value.      |
 | 17         | All       | Valid data types         | All non-string columns contain values valid for the column type. |
+| 18         | All       | Valid coded values       | All columns that permit only a defined set of values contain only those values |
 
 ## File Content
 
