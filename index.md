@@ -2,6 +2,8 @@
 title: Overview
 ---
 
+This manual is effective as of August 10, 2020. The information in this site, along with all prior versions of this manual, is stored at [GitHub](https://github.com/Chicago/tnp-reporting-manual/releases).
+
 As part of its licensing process for Transportation Network Providers (sometimes called Ride-hail Providers), Chicago requires the companies to report on their activities monthly. These requirements are set forth in [Chapter 9-115](http://library.amlegal.com/nxt/gateway.dll/Illinois/chicago_il/title9vehiclestrafficandrailtransportati/chapter9-115transportationnetworkprovide?f=templates$fn=default.htm$3.0$vid=amlegal:chicago_il$anc=JD_Ch.9-115) of the Municipal Code of Chicago and [Rule TNP2.02](https://www.cityofchicago.org/content/dam/city/depts/bacp/rulesandregs/TNPRulesAmendedeffJan12017.pdf) issued by the Department of Business Affairs & Consumer Protection.
 
 For questions relating to these reporting requirements, please e-mail [tnp-data-reporting@cityofchicago.org](mailto:tnp-data-reporting@cityofchicago.org).
