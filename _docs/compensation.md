@@ -8,6 +8,8 @@ order: 7
 
 A record of each of the licensee's drivers who is paid an hourly rate, and any other record needed to capture actual TNP driver pay information that is not reflected in licensee's hourly rate compensation records.
 
+TNP companies may apply different compensation schemes. Therefore, some columns may be 0 for all records because those elements are not used.
+
 ## File Format
 
 Compensation data must be reported using the following schema and reported with the following `[company]-compensation-[date].csv`.
@@ -27,4 +29,4 @@ Compensation data must be reported using the following schema and reported with 
 | **NEW** COMP11	| Other Deduction | Numeric | Yes| Total deductions from pay for other expenses. |
 | **NEW** COMP12	| Driver Net Pay | Numeric | Yes| Total TNP driver net pay including bonus payments and subtracting deductions. |
 | **NEW** COMP13    | Report Period Start Date | ISO 8601 | Yes | Start date of reporting period for pay/incentives/deductions. |
-| **NEW** COMP14    | Report Period End Date | ISO 8601 | Yes | Start date of reporting period for pay/incentives/deductions. |
+| **NEW** COMP14    | Report Period End Date | ISO 8601 | Yes | End date of reporting period for pay/incentives/deductions. |

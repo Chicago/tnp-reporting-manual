@@ -12,7 +12,7 @@ For TNP matters relating to anything other than data reporting, please e-mail [B
 
 ## Submission Deadlines
 
-Below are the deadlines required to have all required files, with the exception of location and communication data, submitted to the City of Chicago.
+Below are the deadlines to have all required files (exceptions listed below the table) submitted to the City of Chicago.
 
 |   Due Date   | Beginning Date |   End Date   |
 |--------------|----------------|--------------|
@@ -29,6 +29,7 @@ Below are the deadlines required to have all required files, with the exception 
 | November 21   | October 1         | October 31 |
 | December 21   | November 1         | November 30 |
 
+Unless stated otherwise, for all files and fields unavailable or unknown values should be left blank. The number 0 should be used only when the value is known to be 0, not as an indicator of missing data. N/A or similar should not be used unless it is the actual text value of the field or the instructions specifically say to use it.
 
 The trip request, location, and communication files are not required to be submitted on a regular basis, and shall be submitted as requested by the City. 
 
