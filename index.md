@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-This manual is effective as of August 10, 2020. The information in this site, along with all prior versions of this manual, is stored at [GitHub](https://github.com/Chicago/tnp-reporting-manual/releases).
+This manual is effective as of August 10, 2020*. The information in this site, along with all prior versions of this manual, is stored at [GitHub](https://github.com/Chicago/tnp-reporting-manual/releases).
 
 As part of its licensing process for Transportation Network Providers (sometimes called Ride-hail Providers), Chicago requires the companies to report on their activities monthly. These requirements are set forth in [Chapter 9-115](http://library.amlegal.com/nxt/gateway.dll/Illinois/chicago_il/title9vehiclestrafficandrailtransportati/chapter9-115transportationnetworkprovide?f=templates$fn=default.htm$3.0$vid=amlegal:chicago_il$anc=JD_Ch.9-115) of the Municipal Code of Chicago and [Rule TNP2.02](https://www.cityofchicago.org/content/dam/city/depts/bacp/rulesandregs/TNPRulesAmendedeffJan12017.pdf) issued by the Department of Business Affairs & Consumer Protection.
 
@@ -44,3 +44,7 @@ Submit at least five separate CSV files with the following naming convention, wh
 ```
 
 Five files should be submitted monthly, consisting of one each for [trips](trip), [drivers](driver), [sessions](session), [vehicles](vehicle), and [compensation](compensation). TNPs will receive separate communications if a file should be submitted for [trip requests](trip_request), [locations](location), or [communications](communication).
+
+---
+
+*The following fields were updated on October 16, 2020 to clarify data descriptions:  COMP14, T21, T22, T24, T28, T29, R5, R7, and R8. 
