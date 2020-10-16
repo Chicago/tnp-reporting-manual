@@ -10,6 +10,8 @@ TNPs should check all files for data quality before submission and verify that t
 
 Errors detected should be fixed before file submission. If it is impossible or unreasonably difficult to fix the errors, TNPs should inform BACP of the nature and degree (such as number of records affected) of the known errors in a file.
 
+This page does not yet cover the most recent changes to the other pages in this reporting manual. TNPs should follow the spirit of the specific items below -- checking all data for accuracy and consistency -- in reporting new or changed columns/files.
+
 ## File Format
 
 | Standard # | File(s)   | Standard                             | Test                                                |

@@ -34,12 +34,12 @@ Trip data must be reported using the following schema and reported with the foll
 | **NEW** T18| Fare End Latitude 			 | Numeric							   | Yes      | Latitude where the TNP driver indicated the passenger was dropped off. Precision at 4 decimal places. |
 | **NEW** T19| Fare End Longitude			 | Numeric							   | Yes      | Longitude where the TNP driver indicated the passenger was dropped off. Precision at 4 decimal places. |
 | **NEW** T20| Tolls						 | Numeric							   | Yes      | Road, bridge, and other tolls charged to the customer. |
-| **NEW** T21| Government Taxes	and Fees		 | Numeric							   | Yes      | Government taxes and fees charged to the customer. |
-| **NEW** T22| TNP Fees			     | Numeric							   | Yes      | TNP fees charged to the customer. |
+| **NEW** T21| Government Taxes	and Fees		 | Numeric							   | Yes      | Amount assessed to the customer due to a requirement from any level of government, other than tolls, which are reported in T20. |
+| **NEW** T22| TNP Fees			     | Numeric							   | Yes      | Amount of fees charged to the customer by the TNP itself. A fare is not considered a fee.|
 | **NEW** T23| Trip ID 						 | String							   | Yes      | Unique identifier for each trip. | 
-| **NEW** T24| Number of Passengers			 | Numeric							   | Yes      | The number of passengers associated with this trip ID that were transported by the TNP vehicle . |
+| **NEW** T24| Number of Passengers			 | Numeric							   | Yes      | The number of passengers associated with this trip ID that were transported by the TNP vehicle. Leave blank if not collected or unknown. |
 | **NEW** T25| On Scene Date and Time		 | ISO 8601							   | Yes      | Date and time when TNP driver arrived at the pick-up location |
 | **NEW** T26| Driver Trip Pay 			 	 | Numeric							   | Yes      | Total TNP driver pay if the driver was compensated on a per-trip basis for the trip (not including tolls or tips and net of fees and taxes). Otherwise, include compensation in [compensation data](/tnp-reporting-manual-draft/compensation). |
 | **NEW** T27| Shared Trip Match			 | String							   | Yes      | Did the passenger share the TNP vehicle with another passenger who booked separately at any point during the trip? (Y/N) |
-| **NEW** T28| Time in Transit Outside Chicago | Numeric						   | Yes	  | For trips that begin outside, end outside, or otherwise leave Chicago, the trip time in seconds spent outside of city boundaries. |
-| **NEW** T29| Miles Traveled Chicago 		 | Numeric						       | Yes	  | For trips that begin outside, end outside, or otherwise leave Chicago, the trip distance spent outside of city boundaries. |
+| **NEW** T28| Time in Transit Chicago | Numeric						   | Yes	  | Time in seconds traveled within Chicago. For trips entirely within Chicago, this should equal the difference between T6 and T4. For trips that begin outside, end outside, or otherwise leave Chicago, this should exclude the trip time spent outside of city boundaries. |
+| **NEW** T29| Miles Traveled Chicago 		 | Numeric						       | Yes	  | Miles traveled within Chicago. For trips entirely within Chicago, this should match T8. For trips that begin outside, end outside, or otherwise leave Chicago, this should exclude the trip distance spent outside of city boundaries. |
