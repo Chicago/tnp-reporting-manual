@@ -47,4 +47,7 @@ Five files should be submitted monthly, consisting of one each for [trips](trip)
 
 ---
 
-*The following fields were updated on October 16, 2020 to clarify data descriptions:  COMP14, T21, T22, T24, T28, T29, R5, R7, and R8. 
+*The following fields were later updated to clarify descriptions:
+
+October 16, 2020:  COMP14, T21, T22, T24, T28, T29, R5, R7, and R8  
+December 15, 2020:  D7  
