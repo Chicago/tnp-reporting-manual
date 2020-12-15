@@ -20,6 +20,6 @@ Driver data must be reported using the following schema and reported with the fo
 |   D4    | Driver's start date     | ISO-8601 date            | Yes            | Date when TNP driver became eligible to drive for your company |
 |   D5    | Driver's end date       | ISO-8601 date            | Yes            | The final date the TNP driver was eligible to drive for your company (end of reporting period if still eligible) |
 |   **NEW** D6    | Employee or Independent Contractor     | String                   | Yes            | The relationship between the TNP driver and the TNP: Enter W2 for Employee, 1099 for Independent Contractor  |
-|   **NEW** D7    | Inactive Reason         | String                   | Yes            | Did the TNP driver initiate their inactive status? Y/N         |
+|   **NEW** D7    | Inactive Reason         | String                   | Yes            | Did the TNP driver initiate their inactive status? (Y/N) For drivers still active at the end of the month, leave blank.        |
 
 
