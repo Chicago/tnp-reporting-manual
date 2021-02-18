@@ -12,7 +12,7 @@ For TNP matters relating to anything other than data reporting, please e-mail [B
 
 ## Submission Deadlines
 
-Below are the deadlines to have all required files (exceptions listed below the table) submitted to the City of Chicago.
+Below are the deadlines to have all required files (exceptions listed below the table) submitted to the City of Chicago. If a listed due date falls on a weekend or City of Chicago [holiday](https://www.chicago.gov/city/en/narr/misc/city-holidays.html), the actual due date is the next non-holiday weekday.
 
 |   Due Date   | Beginning Date |   End Date   |
 |--------------|----------------|--------------|
